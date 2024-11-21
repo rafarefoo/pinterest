@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pinterest Board Embed</title>
+</head>
+<body>
+
+    <h1>My Pinterest Board</h1>
+
+    <!-- Pinterest Embed Code -->
+    <a data-pin-do="embedBoard" data-pin-board-width="600" data-pin-scale-height="400" data-pin-scale-width="92" href="https://pin.it/5pxx1JiRi"></a>
+
+    <!-- Pinterest script -->
+    <script async defer src="https://assets.pinterest.com/js/pinit.js"></script>
+
+</body>
+</html>
